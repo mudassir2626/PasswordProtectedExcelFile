@@ -10,7 +10,7 @@ namespace PasswordProtectedZipFile
 {
     public class Program
     {
-        public static string path = @"D:\CustodyOffline\UI\ExcelFiles\";
+        public static string path = @"";
         private static void FileSystemWatcher_Created(object sender, FileSystemEventArgs e )
 
         {
